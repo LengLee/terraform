@@ -2,3 +2,6 @@
 *.tfplanstate.backup
 *.tfplanstate
 *.txt
+*.terraform/
+.terraform/
+.terraform/*
